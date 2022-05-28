@@ -1,1 +1,1 @@
-This is a _simple Readme_ for **Vagrant**
+Readme for **Vagrant** folder
